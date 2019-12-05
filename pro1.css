@@ -1,0 +1,54 @@
+body{
+
+	margin: 0;
+	padding: 0;
+	background: #ebebe0;
+	
+}
+
+header{
+	color:  #24478f;
+	
+	background-color: white;
+	padding: 20px;
+	font-size:  40px;
+	text-align: center;
+	 font-weight: bold;
+
+}
+.firstpraghap{
+background-color: white;
+
+ padding: 30px;
+margin:10px 200px 20px 200px ; 
+width: 600px;
+
+}
+.second{
+background-color: white;
+
+ padding: 30px;
+margin:10px 200px 20px 200px ; 
+width: 600px;
+
+}
+#copy{
+
+text-align: center;
+color: #a3a375;
+}
+#time{
+	color:#00e64d;
+	margin:10px;
+	position: relative;
+bottom: 20px;
+right: 8px;
+}
+#dot{
+
+	height: 4px;
+	width: 4px;
+	background-color: #a3a375;
+	display: inline-block;
+	border-radius: 50%;
+}
